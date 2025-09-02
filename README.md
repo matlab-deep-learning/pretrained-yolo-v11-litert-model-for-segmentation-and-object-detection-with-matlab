@@ -1,4 +1,4 @@
-# Pretrained YOLO v11 LiteRT Model For Segmentation and Object Detection to GitHub
+# Pretrained YOLO v11 LiteRT Model For Segmentation and Object Detection with MATLAB
 
 This repository provides a pretrained YOLO v11[1] LiteRT model for real-time segmentation and object detection task. This model was exported to LiteRT (formerly known as TFLite) format following the guidelines in https://docs.ultralytics.com/integrations/tflite/.
 
